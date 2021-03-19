@@ -1,2 +1,2 @@
 ## *Car_Price_Prediction*
- *In this project we will build a model for price prediction of Cars*
+ *In this project we will build a model predicting price of Cars*
